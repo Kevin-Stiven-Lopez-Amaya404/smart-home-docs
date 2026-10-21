@@ -1,6 +1,6 @@
-# Módulo 11: Despliegue del Sistema — Smart Home
+# MÃ³dulo 11: Despliegue del Sistema â€” Smart Home
 
-Esta sección documenta el proceso de despliegue, preparación de entornos y puesta en marcha de los servicios del sistema **Smart Home**.
+Esta secciÃ³n documenta el proceso de despliegue, preparaciÃ³n de entornos y puesta en marcha de los servicios del sistema **Smart Home**.
 
-## ?? Contenido
-* **Documento_Despliegue_Smart_Home_SENA.docx**: Manual técnico y paso a paso del despliegue.
+##  Contenido
+* **Documento_Despliegue_Smart_Home_SENA.docx**: Manual tÃ©cnico y paso a paso del despliegue.
